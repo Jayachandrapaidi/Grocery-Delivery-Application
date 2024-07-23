@@ -70,14 +70,3 @@ These are sample screenshots for delivery to a New Jersey address
 
 ## Inspiration for this tool
 The Coronavirus 2019 pandemic caused a surge in demand for grocery delivery services, making it nearly impossible to find an open delivery slot. My intention in providing this tool is first and foremost help those in need (e.g. at-risk people, health care workers) have an easier time staying safe. The idea came to me when I realized my parents, who both have auto-immune diseases, had been trying unsuccesfully for several days to get grocery delivery slots.
-
-## Supporting me/Donations
-Thank you so much for wanting to support me! I don't want anything in return for this tool - I'm just happy to be hearing all the stories about how this has helped people, especially those in need. That said, a [few](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder/issues/19) people have wanted to donate. Please consider donating to [GiveDirectly](https://www.givedirectly.org/covid-19/) which directly pays affected families, or one of the [many other charities](https://www.forbes.com/sites/kellyphillipserb/2020/03/21/helping-out-during-the-coronavirus-crisis-where-what--how-to-donate/#6267520350df) addressing COVID-19.
-If you'd like to support me directly: I am graduating from Georgetown Undergrad Business School in May and looking for a job opportunities so any introductions or leads would be greatly appreciated. Broadly speaking, I’m interested in the intersection of business/tech, including product management, operations, and business/data analytics. My [resume](https://drive.google.com/open?id=1Cb5uAHjFeg4GOb4Gr7jLkm3Ga9tK1OIT)
-
-## Common Issues
-- **"Safari got an error: can't get window id"** _Solution:_ Don't quit Safari, or close the window opened and minimized by the script. See [here](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder/issues/18) for more help.
-
-A copy of the code is also available in .txt format. However, this copy might not be the most up to date version. The .scpt file is the most current and the one you should download if you want to run this tool.
-
-<a href="tracking.gitads.io/?repo=Amazon-Fresh-Whole-Foods-delivery-slot-finder"><img src="images.gitads.io/Amazon-Fresh-Whole-Foods-delivery-slot-finder" alt="GitAds"/></a>
